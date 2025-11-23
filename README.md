@@ -163,6 +163,6 @@ git push origin my-feature-branch
 ---
 
 ## 📄 License
-
+```bash
 MIT License
 ```
